@@ -57,7 +57,7 @@ const questionBank = [
   },
   {
     question: "What are Props?",
-    answer: "b",
+    answer: "a",
     answer1: "a: Props are arguments passed into React components",
     answer2: "b: Props are functions in the ReactJS",
     answer3: "c: Props are used to returns multiple values from the function",
